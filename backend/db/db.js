@@ -1,6 +1,6 @@
 import mongoose, { connect } from "mongoose";
 
-const Mongo_URI="mongodb+srv://HarshP:Harshp1110@cluster0.sjhvrlj.mongodb.net/Blogs"
+
 
 // console.log(process.env.MONGO)
 
